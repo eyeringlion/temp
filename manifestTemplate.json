@@ -1,0 +1,53 @@
+{
+  "displays": [
+    {
+      "language": "en",
+      "name": "Find My WeWork",
+      "description": "allow users to use google search for WeWork"
+    }
+  ],
+  "url": "https://wework.com",
+  "appIconBase64": "data:image/png;base64,/9j/4AAQSkZJRgABAQAASABIAAD/4QCMRXhpZgAATU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABIAAAAAQAAAEgAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAADCgAwAEAAAAAQAAADAAAAAA/+0AOFBob3Rvc2hvcCAzLjAAOEJJTQQEAAAAAAAAOEJJTQQlAAAAAAAQ1B2M2Y8AsgTpgAmY7PhCfv/AABEIADAAMAMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEUMoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUGBwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8KCwkMEQ8SEhEPERATFhwXExQaFRARGCEYGhwdHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/3QAEAAP/2gAMAwEAAhEDEQA/APsokAVyvjrx3oXhM29tetcXmqXefsel2MJnu7jHdYx0UEjLthRnkik+J3it/CnhZr61tPt2qXUyWemWYOPtF1IdqKT2UH5mPZQT2qt8NPA8fhyKfVtWuv7W8U6liTVNUkX5pG7RRj+CFckKg9yckklgZtvrXxa1ZhNZeDdC0K0dNyjVdTaS5B9GjhUoOP8AbNFxrXxa0ljNeeDdC12zRMsNK1Norkn0WOZQh4/2xXooUChlB60XA5bwL460LxYbi2smubPU7TH2zTL6IwXdvnPLRnqpIOHXKnHBNdUCCK4v4leB4/EkUGq6Tdf2T4p03Mml6pGvzRt3ikH8cLYAZD9RggEWvhj4rbxZ4XW9urX7DqlrM9nqlmTn7PdRnEig91P3lPdSD3oA/9D6D8Rwtq3x38MWkoje00fSrvUtrckXDskMbD6I0wz/ALVcn40+KXijwd8e9E8H62NNXwzrJRra9FsRL82U2Ft+3IkMYzjnzF4611niOZtI+PPhe8mKJa6zpV3pgc9TcoyTRoPqizH/AIDWR+1B8ONS+IXgy0Ph1IP+Eh0u7S4sWmfYmCcMCfQcOPdBTAwtF+LHieH9oi4+GviKTSF02QyxWF5b2ro8suxXjQ7mK5x5gOO6DpnFWL/4s65p3i3S/BFxdaRJqmp3dxINQ+zOkNrYRsQkjR7iWkcqwAyF4J9qrfGb4Maxr1p4HufDF80WtaLOtveX7y4mMDkGWYMRzIHXeMjnn1qX4tfDDxNaeO/DPxG+G0VpcapolstnPp11N5S3VuoYAB8HBwzgjjJYHPGCAdRofxCvT8UY/BtxbSapp95aefZ6za2kixpIM7oZuNqnAyGB5zggcZseG4TpPx38UWkIjS01jSrTU9o6m4Rnhkc/VFhGf9mtrwrqXi7WXhuNY8PL4bt4wTJby3SXE0zdABsyFTvnOTxwKxfDczar8d/FF3CY3tNG0q00zcvUXDs80in6I0Rx/tUAf//R+oPid4UbxZ4XaytrsWOqWsyXmmXmM/Z7qM5jYjup+6w7qSO9Vfhr44j8SRT6Vq1r/ZPinTcJqmlyN8yN2ljP8cLYJVx9DgggdowBHNcr448C6F4ra2ur1Lm01SzybPU7GYwXVvnkhZByVJAyhypxyDQB1IINDMK86ttE+LWksIbPxloWu2aJtU6rpjRXJPq0kLBD/wB8Ci40T4tasxhvfGWhaFZum1jpWmtJcg+qySsUHH+waaA0fiT43j8NxQaTpNr/AGt4p1LKaXpcbYaRu8sh/ghXILOfoMkgG38MfCjeE/C6Wd1di+1S6le81O8Ix9oupDmRh6KPuqOygDtR4F8CaD4TNzc2SXN3ql5j7Zqd9MZ7u4xzhpD0UEnCLhRngCuqAAFAH//Z",
+  "intents": [
+    {
+      "name": "WeWork",
+      "perLocaleQueryExamples": [
+        {
+          "language": "en",
+          "queryExamples": [
+            {
+              "pattern": "WeWork"
+            },
+            {
+              "pattern": "WeWork Office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WeWorkLocation",
+      "parameters": [
+        {
+          "name": "Location",
+          "parseRequirement": "OPTIONAL",
+          "enumType": { "options": [] }
+        }
+      ],
+      "perLocaleQueryExamples": [
+        {
+          "language": "en",
+          "queryExamples": [
+            {
+              "pattern": "wework $Location"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "webhook": "https://webhook-gsa.phoenix.dev.wwrk.co/",
+  "theme": "GREEN",
+  "supportedLanguages": ["en"],
+  "supportedRegions": ["US", "CA"]
+}
